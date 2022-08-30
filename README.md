@@ -2,82 +2,82 @@ WELCOME!:wave:
 
 Here you will find websites that have helped me learn about web development.
 
-#*Resources*
+# *Resources*
 
-##CSS
+## CSS
 
--[Learn CSS](https://web.dev/learn/css/)
+- [Learn CSS](https://web.dev/learn/css/)
 
--[Media Query CSS Tutorial](https://www.freecodecamp.org/news/css-media-queries-breakpoints-media-types-standard-resolutions-and-more/)
+- [Media Query CSS Tutorial](https://www.freecodecamp.org/news/css-media-queries-breakpoints-media-types-standard-resolutions-and-more/)
 
-##JavaScript
+## JavaScript
 
--[The Modern JavaScript Tutorial](https://javascript.info/)
+- [The Modern JavaScript Tutorial](https://javascript.info/)
 
--[JavaScript Documentation](https://devdocs.io/javascript/)
-
----
-
-##Git and GitHub
-
--[GitHub Glossary](https://docs.github.com/en/get-started/quickstart/github-glossary#pull)
-
--[Using common Git Commands](https://docs.github.com/en/get-started/using-git)
-
--[Beginner's Guide to Git & GitHub](https://www.freecodecamp.org/news/the-beginners-guide-to-git-github/)
-
-##CI/CD
-
--[GitHub Actions Resources](https://github.blog/2021-11-04-10-github-actions-resources-basics-ci-cd/)
-
-##VSCode & Emmet
-
--[Abbreviation Syntax](https://docs.emmet.io/abbreviations/syntax/)
-
--[VSCode Keyboard Shortcuts](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
-
-##Markdown
-
--[Ghostwriter](https://wereturtle.github.io/ghostwriter/documentation.html)
-
--[Markdown Guide](https://www.markdownguide.org/)
-
--[Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet#smileys--emotion)
+- [JavaScript Documentation](https://devdocs.io/javascript/)
 
 ---
 
-##SEO
+## Git and GitHub
 
--[The 60 Best Free SEO Tools](https://moz.com/blog/best-free-seo-tools)
+- [GitHub Glossary](https://docs.github.com/en/get-started/quickstart/github-glossary#pull)
 
--[Google Search Console](https://search.google.com/search-console/about)
+- [Using common Git Commands](https://docs.github.com/en/get-started/using-git)
 
--[Google Search Operators](https://ahrefs.com/blog/google-advanced-search-operators/)
+- [Beginner's Guide to Git & GitHub](https://www.freecodecamp.org/news/the-beginners-guide-to-git-github/)
+
+## CI/CD
+
+- [GitHub Actions Resources](https://github.blog/2021-11-04-10-github-actions-resources-basics-ci-cd/)
+
+## VSCode & Emmet
+
+- [Abbreviation Syntax](https://docs.emmet.io/abbreviations/syntax/)
+
+- [VSCode Keyboard Shortcuts](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
+
+## Markdown
+
+- [Ghostwriter](https://wereturtle.github.io/ghostwriter/documentation.html)
+
+- [Markdown Guide](https://www.markdownguide.org/)
+
+- [Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet#smileys--emotion)
 
 ---
 
-##Google
+## SEO
 
--[Google Fonts](https://fonts.google.com/?preview.text_type=custom)
+- [The 60 Best Free SEO Tools](https://moz.com/blog/best-free-seo-tools)
 
--[Google Trends](https://trends.google.com/trends/?geo=JP)
+- [Google Search Console](https://search.google.com/search-console/about)
 
--[Google Research](https://research.google/)
-
--[Webmaster Guidelines](https://developers.google.com/search/docs/advanced/guidelines/webmaster-guidelines)
+- [Google Search Operators](https://ahrefs.com/blog/google-advanced-search-operators/)
 
 ---
 
-##Design and UI Design
+## Google
 
--[Canva](https://www.canva.com/)
+- [Google Fonts](https://fonts.google.com/?preview.text_type=custom)
 
--[XD Designs from Adobe XD](https://xd.adobe.com/ideas/)
+- [Google Trends](https://trends.google.com/trends/?geo=JP)
 
--[Landingfolio](https://www.landingfolio.com/)
+- [Google Research](https://research.google/)
 
--[Support Tables for HTML5, CSS3, etc](https://caniuse.com/)
+- [Webmaster Guidelines](https://developers.google.com/search/docs/advanced/guidelines/webmaster-guidelines)
 
--[Material Design](https://material.io/)
+---
 
--[DrawKit](https://drawkit.com/)
+## Design and UI Design
+
+- [Canva](https://www.canva.com/)
+
+- [XD Designs from Adobe XD](https://xd.adobe.com/ideas/)
+
+- [Landingfolio](https://www.landingfolio.com/)
+
+- [Support Tables for HTML5, CSS3, etc](https://caniuse.com/)
+
+- [Material Design](https://material.io/)
+
+- [DrawKit](https://drawkit.com/)
