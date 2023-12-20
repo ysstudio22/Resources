@@ -1,6 +1,4 @@
-WELCOME!:wave:
-
-Resources that I've stumbled upon to learn about web development.
+Welcome! :wave: Below is a list of resources that I've stumbled upon through my self-study of web development.  Materials range from CSS to Design.
 
 # *Resources*
 
@@ -83,6 +81,7 @@ Resources that I've stumbled upon to learn about web development.
 
 - [DrawKit](https://drawkit.com/)
 
+---
 ## Notetaking
 - [Omnivore](https://omnivore.app/)
 
