@@ -2,7 +2,7 @@ Welcome! :wave: Below is a list of resources that I've stumbled upon through my 
 
 # *Resources*
 
-## CSS ![fa-css3](https://fontawesome.com/v4/icon/css3)
+## CSS ![css3-alt](https://fontawesome.com/icons/css3-alt?f=brands&s=solid)
 
 - [Learn CSS](https://web.dev/learn/css/)
 
