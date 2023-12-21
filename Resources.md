@@ -86,3 +86,9 @@ Welcome! :wave: Below is a list of resources that I've stumbled upon through my 
 ## Notetaking
 - [Omnivore](https://omnivore.app/)
 
+---
+## VIM
+- [learningbyexample](https://learnbyexample.github.io/tips/) 
+
+- [Vimrc Configuration Guide - How to Customize Your Vim Code Editor with Mappings, Vimscript, Status Line, and More](https://www.freecodecamp.org/news/vimrc-configuration-guide-customize-your-vim-editor/)
+
