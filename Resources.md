@@ -2,7 +2,7 @@ Welcome! :wave: Below is a list of resources that I've stumbled upon through my 
 
 # *Resources*
 
-## CSS ![css3-alt](https://fontawesome.com/icons/css3-alt?f=brands&s=solid)
+## CSS
 
 - [Learn CSS](https://web.dev/learn/css/)
 
@@ -82,6 +82,7 @@ Welcome! :wave: Below is a list of resources that I've stumbled upon through my 
 - [DrawKit](https://drawkit.com/)
 
 ---
+
 ## Notetaking
 - [Omnivore](https://omnivore.app/)
 
