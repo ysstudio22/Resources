@@ -7,7 +7,7 @@ Welcome! :wave: Below is a list of resources that I've stumbled upon through my 
 - [Learn CSS](https://web.dev/learn/css/)
 
     :+1: What I liked about this site:
-    The site is structured into clearly labelled units with an accompanying article that could read about the topic.  The article goes into detail about the topic.  It also help that there is a table of contents at the top of the article.  The article also has visual examples that allow for simple understanding.
+    The site is structured into clearly labelled units with an accompanying article.  The article goes into enough detail.  It also help that there is a table of contents at the top of the article which makes navigation easy and visual examples that allow for simple understanding.
     
     ![Learn CSS](https://github.com/ysstudio22/Resources/blob/f285787d08591f0f400d19331132ee87de81d175/Assets/Learn%20CSS.JPG)
 
