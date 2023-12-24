@@ -29,11 +29,6 @@ Welcome! :wave: Below is a list of resources that I've stumbled upon through my 
 
 - [GitHub Actions Resources](https://github.blog/2021-11-04-10-github-actions-resources-basics-ci-cd/)
 
-## VSCode & Emmet
-
-- [Abbreviation Syntax](https://docs.emmet.io/abbreviations/syntax/)
-
-- [VSCode Keyboard Shortcuts](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
 
 ## Markdown
 
@@ -45,19 +40,19 @@ Welcome! :wave: Below is a list of resources that I've stumbled upon through my 
 
 ---
 
-## SEO
+## Markdown and SEO
+
+- [Ghostwriter](https://wereturtle.github.io/ghostwriter/documentation.html)
+
+- [Markdown Guide](https://www.markdownguide.org/)
+
+- [Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet#smileys--emotion)
 
 - [The 60 Best Free SEO Tools](https://moz.com/blog/best-free-seo-tools)
 
-- [Google Search Console](https://search.google.com/search-console/about)
-
-- [Google Search Operators](https://ahrefs.com/blog/google-advanced-search-operators/)
-
 ---
 
-## Google
-
-- [Google Fonts](https://fonts.google.com/?preview.text_type=custom)
+## Optimizing Websites
 
 - [Google Trends](https://trends.google.com/trends/?geo=JP)
 
@@ -65,9 +60,15 @@ Welcome! :wave: Below is a list of resources that I've stumbled upon through my 
 
 - [Webmaster Guidelines](https://developers.google.com/search/docs/advanced/guidelines/webmaster-guidelines)
 
+- [Google Search Console](https://search.google.com/search-console/about)
+
+- [Google Search Operators](https://ahrefs.com/blog/google-advanced-search-operators/)
+
 ---
 
 ## Design and UI Design
+
+- [Google Fonts](https://fonts.google.com/?preview.text_type=custom)
 
 - [Canva](https://www.canva.com/)
 
@@ -83,12 +84,15 @@ Welcome! :wave: Below is a list of resources that I've stumbled upon through my 
 
 ---
 
-## Notetaking
+## Reading
+
 - [Omnivore](https://omnivore.app/)
 
 ---
 ## VIM
+
 - [learningbyexample](https://learnbyexample.github.io/tips/) 
 
 - [Vimrc Configuration Guide - How to Customize Your Vim Code Editor with Mappings, Vimscript, Status Line, and More](https://www.freecodecamp.org/news/vimrc-configuration-guide-customize-your-vim-editor/)
 
+- [Vim Tips Wiki](https://vim.fandom.com/wiki/Vim_Tips_Wiki)
