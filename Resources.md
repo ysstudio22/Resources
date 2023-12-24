@@ -9,7 +9,7 @@ Welcome! :wave: Below is a list of resources that I've stumbled upon through my 
     What I liked about this site:
     The site is structured into clearly labelled units with an accompanying article that could read about the topic.  The article goes into detail about the topic.  It also help that there is a table of contents at the top of the article.  The article also has visual examples that allow for simple understanding.
     
-    [Learn CSS](/Assets/Learn CSS.jpg)
+    ![Learn CSS](/Assets/Learn CSS.jpg)
 
 - [Media Query CSS Tutorial](https://www.freecodecamp.org/news/css-media-queries-breakpoints-media-types-standard-resolutions-and-more/)
 
