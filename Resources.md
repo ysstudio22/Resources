@@ -13,13 +13,20 @@ Welcome! :wave: Below is a list of resources that I've stumbled upon through my 
 
 - [Media Query CSS Tutorial](https://www.freecodecamp.org/news/css-media-queries-breakpoints-media-types-standard-resolutions-and-more/)
 
+    :+1: What I liked about this site:
+    The article helped me understand how to write the *max* and *min* breakpoints in my CSS.  The author also gave the standard breakpoints by device.  The article is concise and easy to follow.
 
 ## JavaScript
 
 - [The Modern JavaScript Tutorial](https://javascript.info/)
 
-- [JavaScript Documentation](https://devdocs.io/javascript/)
+    :+1: What I liked about this site:
+    It covers everything from syntax to working in the DOM.  Each unit is divided into smaller units and outlined in the Home page.  What more, the site has links to other additional articles that build upon the fundamentals that were covered in the first two sections of the site.
 
+- [JavaScript Documentation](https://devdocs.io/javascript/)
+    
+    :+1: What I liked about this site:
+    This is a little different from The Modern JavaScript Tutorial.  It serves as a reference to everything about the language.  The scrollable scrollbar on the left has all the items listed alphabetically.  Once you click on the tab, it would open the reference guide on the right.
 ---
 
 ## Git and GitHub
@@ -34,14 +41,6 @@ Welcome! :wave: Below is a list of resources that I've stumbled upon through my 
 
 - [GitHub Actions Resources](https://github.blog/2021-11-04-10-github-actions-resources-basics-ci-cd/)
 
-
-## Markdown
-
-- [Ghostwriter](https://wereturtle.github.io/ghostwriter/documentation.html)
-
-- [Markdown Guide](https://www.markdownguide.org/)
-
-- [Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet#smileys--emotion)
 
 ---
 
