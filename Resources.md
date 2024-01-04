@@ -5,27 +5,30 @@ Welcome! :wave: Below is a list of resources that I've stumbled upon through my 
 
 - [Learn CSS](https://web.dev/learn/css/)
 
-    :+1: What I liked about this site:
-    The site is structured into clearly labelled units with an accompanying article.  The article goes into enough detail.  It also help that there is a table of contents at the top of the article which makes navigation easy and visual examples that allow for simple understanding.
+    :+1: The site is structured into clearly labelled units with an accompanying article.  The article goes into enough detail.  It also help that there is a table of contents at the top of the article which makes navigation easy and visual examples that allow for simple understanding.
     
-    ![Learn CSS](https://github.com/ysstudio22/Resources/blob/f285787d08591f0f400d19331132ee87de81d175/Assets/Learn%20CSS.JPG)
+   ![Learn CSS](https://github.com/ysstudio22/Resources/blob/f285787d08591f0f400d19331132ee87de81d175/Assets/Learn%20CSS.JPG)
 
 - [Media Query CSS Tutorial](https://www.freecodecamp.org/news/css-media-queries-breakpoints-media-types-standard-resolutions-and-more/)
 
-    :+1: What I liked about this site:
-    The article helped me understand how to write the *max* and *min* breakpoints in my CSS.  The author also gave the standard breakpoints by device.  The article is concise and easy to follow.
+    :+1: The article helped me understand how to write the *max* and *min* breakpoints in my CSS.  The author also gave the standard breakpoints by device.  The article is concise and easy to follow.
+
+### CSS Pseudo-Classes
+- [Pseudo-classes and pseudo-elements - Learn web development | MDN](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors/Pseudo-classes_and_pseudo-elements)
+
+    :+1: The article introduces pseudo-classes and elements. Explanations are kept brief and are followed by simple examples so that the reader can see how the code works.  The article is divided into easily distinct sections making it easy to navigate and read. 
+    Supplement: [Pseudo-Classes In CSS](https://dev.to/shahidbugti/pseudo-classes-in-css-5emh)
+        - This article from the DEV community also outlined and demonstrated pseudo classes and elements clearly.
 
 ## JavaScript
 
 - [The Modern JavaScript Tutorial](https://javascript.info/)
 
-    :+1: What I liked about this site:
-    It covers everything from syntax to working in the DOM.  Each unit is divided into smaller units and outlined in the Home page.  What more, the site has links to other additional articles that build upon the fundamentals that were covered in the first two sections of the site.
+    :+1: It covers everything from syntax to working in the DOM.  Each unit is divided into smaller units and outlined in the Home page.  What more, the site has links to other additional articles that build upon the fundamentals that were covered in the first two sections of the site.
 
 - [JavaScript Documentation](https://devdocs.io/javascript/)
     
-    :+1: What I liked about this site:
-    This is a little different from The Modern JavaScript Tutorial.  It serves as a reference to everything about the language.  The scrollable scrollbar on the left has all the items listed alphabetically.  Once you click on the tab, it would open the reference guide on the right.
+    :+1: This is a little different from The Modern JavaScript Tutorial.  It serves as a reference to everything about the language.  The scrollable scrollbar on the left has all the items listed alphabetically.  Once you click on the tab, it would open the reference guide on the right.
 
 ---
 
