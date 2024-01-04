@@ -16,7 +16,7 @@ Welcome! :wave: Below is a list of resources that I've stumbled upon through my 
 ### CSS Pseudo-Classes
 - [Pseudo-classes and pseudo-elements - Learn web development | MDN](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors/Pseudo-classes_and_pseudo-elements)
 
-    :+1: The article introduces pseudo-classes and elements. Explanations are kept brief and are followed by simple examples so that the reader can see how the code works.  The article is divided into easily distinct sections making it easy to navigate and read. 
+    :+1: The article introduces pseudo-classes and elements. Explanations are kept brief and are followed by simple examples so that the reader can see how the code works.  The article is divided into easily distinct sections making it easy to navigate and read. <br> 
     Supplement: [Pseudo-Classes In CSS](https://dev.to/shahidbugti/pseudo-classes-in-css-5emh)
         - This article from the DEV community also outlined and demonstrated pseudo classes and elements clearly.
 
