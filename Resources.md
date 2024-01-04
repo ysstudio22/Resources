@@ -1,6 +1,5 @@
+# Introduction
 Welcome! :wave: Below is a list of resources that I've stumbled upon through my self-study of web development.  Materials range from CSS to Design.
-
-# *Resources*
 
 ## CSS
 
@@ -27,6 +26,7 @@ Welcome! :wave: Below is a list of resources that I've stumbled upon through my 
     
     :+1: What I liked about this site:
     This is a little different from The Modern JavaScript Tutorial.  It serves as a reference to everything about the language.  The scrollable scrollbar on the left has all the items listed alphabetically.  Once you click on the tab, it would open the reference guide on the right.
+
 ---
 
 ## Git and GitHub
