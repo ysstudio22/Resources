@@ -28,7 +28,14 @@ Welcome! :wave: Below is a list of resources that I've stumbled upon through my 
 
 - [JavaScript Documentation](https://devdocs.io/javascript/)
     
-    :+1: This is a little different from The Modern JavaScript Tutorial.  It serves as a reference to everything about the language.  The scrollable scrollbar on the left has all the items listed alphabetically.  Once you click on the tab, it would open the reference guide on the right.
+    :+1: This is a little different from The Modern JavaScript Tutorial.  It serves as a reference to everything about the language.  The left side pane has all the items listed alphabetically.  Once you click on the tab, it would open the reference guide on the right.
+
+---
+## Self-Study
+
+- [Frontend Mentor](https://www.frontendmentor.io)
+- [freecodecamp](https://www.freecodecamp.org/)
+- [LabEx](https://labex.io/)
 
 ---
 
